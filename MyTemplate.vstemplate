@@ -1,0 +1,37 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>WinFormsApp1</Name>
+    <Description>&lt;Nenhuma descrição disponível&gt;</Description>
+    <ProjectType>CSharp</ProjectType>
+    <ProjectSubType>
+    </ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>WinFormsApp1</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <CreateInPlace>true</CreateInPlace>
+    <Icon>__TemplateIcon.ico</Icon>
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="WinFormsApp1.csproj" File="WinFormsApp1.csproj" ReplaceParameters="true">
+      <ProjectItem ReplaceParameters="true" TargetFileName="ConfirmSenha.cs">ConfirmSenha.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ConfirmSenha.Designer.cs">ConfirmSenha.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ConfirmSenha.resx">ConfirmSenha.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Deposito.cs">Deposito.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Deposito.Designer.cs">Deposito.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Deposito.resx">Deposito.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Extrato.cs">Extrato.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Extrato.Designer.cs">Extrato.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Extrato.resx">Extrato.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form1.cs">Form1.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form1.Designer.cs">Form1.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form1.resx">Form1.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Program.cs">Program.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Saque.cs">Saque.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Saque.Designer.cs">Saque.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Saque.resx">Saque.resx</ProjectItem>
+    </Project>
+  </TemplateContent>
+</VSTemplate>
